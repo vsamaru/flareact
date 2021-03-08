@@ -1,8 +1,8 @@
 name = "flareact"
 type = "webpack"
 workers_dev = true
-account_id = "d9c4a171c4a0d0a8e6f8204ae9ba0638"
-zone_id = "cd7d068de3012345da9420df9514dad0"
+account_id = "0de3674adef884f16d5803ba28ee6e13"
+
 webpack_config = "node_modules/flareact/webpack"
 
 [site]
