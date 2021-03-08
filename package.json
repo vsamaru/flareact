@@ -1,8 +1,7 @@
 {
   "name": "flareact-template",
   "version": "1.0.0",
-  "author": "Josh Larson <jplhomer@gmail.com>",
-  "license": "MIT",
+
   "main": "index.js",
   "private": true,
   "scripts": {
